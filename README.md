@@ -2,19 +2,20 @@
 
 ### Build beautiful mobile apps for iOS and Android with [Jigx](https://www.jigx.com) in VS Code.
 
-Check out the **How to get started** guide [here](https://docs.jigx.com/)
+Check out the **How to get started** guide [here](https://docs.jigx.com/), or explore [Jigx
+ GitHub](https://github.com/jigx-com/jigx-samples/tree/main/quickstart) repository containing sample apps. 
 
 <img src="https://builder.jigx.com/assets/extension_assets/cover.jpg" width="90%"/>
 
 ### 🏗️ Build
 
-Build mobile apps with only YAML featuring
+Build mobile apps with only YAML featuring:
 
-- embedded expressions
+- Embedded expressions
 - SQL queries
-- rich & comprehensive IntelliSense support
-- code snippets and templates
-- and much more...
+- Rich & comprehensive IntelliSense support
+- Code snippets and templates
+- And much more...
 
 ### 📲 Connect & Test
 
